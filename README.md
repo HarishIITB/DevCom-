@@ -1,12 +1,24 @@
 # DevCom-
 DevCom recruitment assignment
-Pre-Evaluation Instructions for my website:I hope this message finds you well. I appreciate your time and effort in evaluating my website. Before you begin the review, I would like to request your assistance with a few specific tasks to ensure a comprehensive evaluation
+
+
+Pre-Evaluation Instructions for my website:
+
+I hope this message finds you well. I appreciate your time and effort in evaluating my website. Before you begin the review, I would like to request your assistance with a few specific tasks to ensure a comprehensive evaluation
+
+
 URL Adjustment:
 As my website relies on local URLs, please make the necessary adjustments based on your local environment after downloading the code. This step is crucial for ensuring that the links function correctly during your review.
+
+
 Responsive Design Check:
 Kindly examine the responsiveness of the website by unchecking and then checking the min-width box in the CSS code under the body class. I've observed that the checkbox behavior might change over time, and your verification will provide an accurate assessment of the website's responsiveness.
+
+
 Screen Size Evaluation:
 While changing the screen sizes to various standard mobile and tablet dimensions, please remember to zoom out for a proper view. This will aid in obtaining a comprehensive understanding of how the website adapts to different screen dimensions
+
+
 Local Image:
 I have used a local image of mine in the navigation bar ... I think it will not be available for other users but i will try to attach my image over here
 
