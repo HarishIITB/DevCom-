@@ -1,0 +1,232 @@
+.head {
+    color: darkslategrey;
+    place-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: beige;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    background-repeat: inherit;
+    background-size: 100px;
+    align-items: center;
+    text-align: center;
+    min-width: 750px;
+}
+
+body {
+    margin: 0;
+
+    background-position: center;
+    background-image: url(https://images.unsplash.com/photo-1528460033278-a6ba57020470?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: xx-large;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-width: 750px;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-position: inherit;
+    box-sizing: border-box;
+    min-width: 750px;
+    max-height: 300px;
+}
+
+.Top {
+    position: sticky;
+    top: 0;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 20px;
+    color: azure;
+    min-width: 100vh;
+}
+
+nav ul li:hover {
+    background-color: cyan;
+    border-radius: 10px;
+    border: 5px solid pink;
+}
+
+img {
+    max-width: 400px;
+    width: auto;
+    height: auto;
+    border-radius: 50px;
+
+}
+
+.logo {
+    display: flex;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.logo img {
+    max-width: 100px;
+    border: 5px solid white;
+    border-radius: 100px;
+}
+
+h2 {
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+    background-repeat: inherit;
+    padding: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    min-width: 750px;
+}
+
+.contact {
+    margin: 20px;
+    padding: 10px;
+    background-color: black;
+    text-decoration: none;
+    color: azure;
+    border-radius: 10px;
+}
+
+.contact:hover {
+    background-color: cyan;
+    border-radius: 10px;
+    border: 5px solid pink;
+
+}
+
+.w3s {
+    max-width: 150px;
+    margin-left: 40px;
+
+}
+
+.w3s:hover {
+    background-color: cornsilk;
+    border: 5px solid black
+}
+
+.mosh {
+    max-width: 170px;
+    margin-left: 10px;
+    ;
+}
+
+.mosh:hover {
+    border: 10px solid white;
+}
+
+.CR {
+    max-width: 400px;
+    margin-left: 10px;
+}
+
+.CR:hover {
+    border: 10px solid black;
+}
+
+.FootBall {
+    max-width: 400px;
+    margin-left: 10px;
+}
+
+.FootBall:hover {
+    border: 10px solid black;
+
+}
+
+.Music {
+    max-width: 400px;
+    margin-left: 10px;
+}
+
+.Music:hover {
+    border: 10px solid white;
+}
+
+.About {
+    margin: 20px;
+}
+
+.bio {
+    margin: 20px;
+}
+
+.ho {
+    margin: 20px;
+}
+
+.bottom {
+    font-size: xx-large;
+    bottom: 0;
+    top: auto;
+    margin-bottom: 10px;
+
+}
+
+.acon {
+    margin-left: 10px;
+}
+
+.bcon1 {
+    margin-left: 10px;
+}
+
+.bcon2 {
+    margin-left: 10px;
+}
+
+.bcon3 {
+    margin-left: 10px;
+}
+
+.Bcon1 {
+    margin-left: 10px;
+}
+
+.Bcon2 {
+    margin-left: 10px;
+}
+
+.Bcon3 {
+    margin-left: 10px;
+}
+
+.cr {
+    margin-left: 10px;
+}
+
+.e {
+    margin-left: 10px;
+}
+
+.E {
+    margin-left: 10px;
+}
+
+.E1 {
+    margin-left: 10px;
+}
+
+.f {
+    margin-left: 10px;
+}
+
+.m {
+    margin-left: 10px;
+}
