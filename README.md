@@ -24,7 +24,7 @@ While changing the screen sizes to various standard mobile and tablet dimensions
 
 
 Local Image:
-I have used a local image of mine in the navigation bar ... I think it will not be available for other users but i will try to attach my image over here
+I have used a local image of mine in the navigation bar ... I think it will not be available for other users but i have attached it over here.Please download in case you need to enjoy my website completely and just change the link in the source for that image...
 
 
 Hi This is Haris Narrendran R , hereby i have attached my files associated with recruitment assignment.A brief and some points about my wesite are as follows.
