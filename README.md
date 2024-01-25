@@ -1,6 +1,8 @@
 # DevCom-
 DevCom recruitment assignment
 
+DEVCOM is the main file for question 1
+
 I had problems while pushing my code from VScode to github... So i have used upload files command from github to attach my files .
 
 
@@ -26,7 +28,7 @@ I have used a local image of mine in the navigation bar ... I think it will not 
 
 
 Hi This is Haris Narrendran R , hereby i have attached my files associated with recruitment assignment.A brief and some points about my wesite are as follows.
-I had built a portfolio website called "LUMINARY PORTFOLIO" which basically is a portfolio website of mine.It has four sections .. namely about , bio , hobbies , learning resources . Hobbies section will include my hobbies and dedicated pages for them.in the learning resources section i have mentioned the resources i used to learn HTML and CSS such that viewers of my website who may also want to built their own can do it. 
+I had built a portfolio website called "LUMINARY PORTFOLIO" and name of the HTML file is "DEVCOM" which basically is a portfolio website of mine.It has four sections .. namely about , bio , hobbies , learning resources . Hobbies section will include my hobbies and dedicated pages for them.in the learning resources section i have mentioned the resources i used to learn HTML and CSS such that viewers of my website who may also want to built their own can do it. 
 
 
 Thank You in advance for your time and consideration
